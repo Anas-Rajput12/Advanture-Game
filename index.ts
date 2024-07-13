@@ -170,7 +170,7 @@ async function data() {
           {
             name : "adventure",
             type : "confirm",
-            message : "Funther check your Transaction ?",
+            message : "Do you want play again ?",
             default : true
           }
         ]);
